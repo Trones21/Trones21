@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some webapps (Go backends, Angular or plain JS frontends)
-- 🌱 I’m currently learning Angular & Ionic
+- 🔭 I’m currently working on redoing my portfolio with Docusaurus
+- 🌱 I’m currently learning C++
 - 💬 Ask me about anything!
 - 📫 How to reach me: Linkedin
 
