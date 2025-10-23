@@ -1,12 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - noCRUD
-  - Redoing my portfolio with Docusaurus
-  - Creating tools for docusaurus
-  - Gaining expertise in Go
-  - Waay too many CRUD apps
-  - A few conference talks
+  - qlir (My private quant library)
+  - trading
+  - and as always, adding docs to my portfolio site thomasrones.com
 - 💬 Ask me about anything!
 - 📫 How to reach me: Linkedin
 
